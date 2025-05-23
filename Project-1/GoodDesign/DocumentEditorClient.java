@@ -1,5 +1,3 @@
-package Project-1.GoodDesign;
-
 
 import java.util.ArrayList;
 import java.util.List;
